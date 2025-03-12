@@ -292,6 +292,13 @@ DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,xp.apple.com
+DOMAIN-SUFFIX,beats1.cn
+DOMAIN-SUFFIX,beats1.com.cn
+DOMAIN-SUFFIX,beats2.com.cn
+DOMAIN-SUFFIX,beats4.cn
+DOMAIN-SUFFIX,beatsbydre.com
+DOMAIN-SUFFIX,beatsbydre.com.cn
+DOMAIN-SUFFIX,beatsep.cn
 DOMAIN-SUFFIX,apple-icloud.cn
 DOMAIN-SUFFIX,appleicloud.cn
 DOMAIN-SUFFIX,icloud-apple.cn
@@ -317,10 +324,3 @@ DOMAIN,ocsp-lb.apple.com.akadns.net
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
-DOMAIN-SUFFIX,beats1.cn
-DOMAIN-SUFFIX,beats1.com.cn
-DOMAIN-SUFFIX,beats2.com.cn
-DOMAIN-SUFFIX,beats4.cn
-DOMAIN-SUFFIX,beatsbydre.com
-DOMAIN-SUFFIX,beatsbydre.com.cn
-DOMAIN-SUFFIX,beatsep.cn
