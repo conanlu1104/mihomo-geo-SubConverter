@@ -195,7 +195,6 @@ DOMAIN,qiao-cn.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt2-cn.com
 DOMAIN,redirector.c.play.google.com
-DOMAIN-SUFFIX,ggpht.cn
 DOMAIN,pki-goog.l.google.com
 DOMAIN,c.pki.goog
 DOMAIN,i.pki.goog
@@ -203,4 +202,5 @@ DOMAIN,o.pki.goog
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
+DOMAIN-SUFFIX,ggpht.cn
 DOMAIN,firebase-settings.crashlytics.com
