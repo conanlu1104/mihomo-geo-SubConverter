@@ -148,6 +148,7 @@ DOMAIN,www.pxcc.com
 DOMAIN,xn--flw351e.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt2-cn.com
+DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,pki-goog.l.google.com
 DOMAIN,c.pki.goog
 DOMAIN,i.pki.goog
@@ -157,4 +158,3 @@ DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
 DOMAIN,redirector.c.play.google.com
 DOMAIN-SUFFIX,ggpht.cn
-DOMAIN,firebase-settings.crashlytics.com
