@@ -70,6 +70,7 @@ IP-CIDR,2620:11a:c014::/48,no-resolve
 IP-CIDR,2620:11a:c016::/48,no-resolve
 IP-CIDR,2620:11a:c018::/46,no-resolve
 IP-CIDR,2620:11a:c01c::/47,no-resolve
+IP-CIDR,2620:11a:c020::/48,no-resolve
 IP-CIDR,2620:11a:c024::/47,no-resolve
 IP-CIDR,2620:12a:8000::/44,no-resolve
 IP-CIDR,2a04:4e40::/32,no-resolve
