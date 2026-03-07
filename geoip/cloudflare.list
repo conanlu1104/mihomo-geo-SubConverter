@@ -869,7 +869,6 @@ IP-CIDR,2a09:bac0:684::/48,no-resolve
 IP-CIDR,2a09:bac0:694::/48,no-resolve
 IP-CIDR,2a09:bac0:704::/48,no-resolve
 IP-CIDR,2a09:bac0:711::/48,no-resolve
-IP-CIDR,2a09:bac0:712::/48,no-resolve
 IP-CIDR,2a09:bac0:719::/48,no-resolve
 IP-CIDR,2a09:bac0:721::/48,no-resolve
 IP-CIDR,2a09:bac0:724::/47,no-resolve
